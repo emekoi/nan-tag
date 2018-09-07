@@ -8,8 +8,7 @@ TEMPSRC_DIR = ".tempsrc"
 COMPILER = "gcc"
 INCLUDE_PATH = [
   TEMPSRC_DIR,
-  "src/lib",
-  "src",
+  "src/include",
 ]
 SOURCE = [
   "src",
